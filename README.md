@@ -1,4 +1,5 @@
 ![Banner image](https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fthodinh%2Fn8node.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fthodinh%2Fn8node?ref=badge_shield)
 
 # n8n-nodes-starter
 
@@ -45,3 +46,6 @@ Refer to our [documentation on creating nodes](https://docs.n8n.io/integrations/
 ## License
 
 [MIT](https://github.com/n8n-io/n8n-nodes-starter/blob/master/LICENSE.md)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fthodinh%2Fn8node.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fthodinh%2Fn8node?ref=badge_large)
